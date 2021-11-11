@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  font-family: courier;
+  text-align: center;
+}
+p {
+  color: blue;
+  font-family: courier;
+  font-size: 160%;
+  text-align: center;
+}
+body {background-color: pink;
+}
+p2 {
+  color: blue;
+  font-family: courier;
+  font-size: 160%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
